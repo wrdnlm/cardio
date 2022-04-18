@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  padding: 100px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 15px;
+}
+
+.warning {
+  color: red;
+}
